@@ -1,0 +1,10 @@
+# Nmap 7.95 scan initiated Fri Oct  3 10:09:34 2025 as: /usr/lib/nmap/nmap --privileged -sV -p 80 -oN openvasp1.csv 192.168.178.129
+Nmap scan report for 192.168.178.129
+Host is up (0.0014s latency).
+
+PORT   STATE SERVICE VERSION
+80/tcp open  http    Apache httpd 2.2.8 ((Ubuntu) DAV/2)
+MAC Address: 00:0C:29:A8:4F:5D (VMware)
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Fri Oct  3 10:09:41 2025 -- 1 IP address (1 host up) scanned in 6.69 seconds
